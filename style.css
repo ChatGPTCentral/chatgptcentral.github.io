@@ -110,7 +110,7 @@ h1.notion-heading {
 
 .notion-collection-card__cover {
 	border-radius: var(--card-radius) !important;
-	box-shadow: 0 3px 16px 0 rgba(38, 47, 92, .06);
+	/* box-shadow: 0 3px 16px 0 rgba(38, 47, 92, .06); */
 	border: 0 !important
 }
 
