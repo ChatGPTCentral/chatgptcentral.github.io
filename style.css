@@ -143,7 +143,7 @@ h1.notion-heading {
 
 .notion-collection-card__property:last-child,
 .notion-collection-list__item-property:last-child {
-	background: var(--button-bg-color) !important;
+	background: none !important;
 	border-radius: 100px !important;
 	padding: 10px !important;
 	color: var(--button-text-color) !important;
@@ -151,7 +151,7 @@ h1.notion-heading {
 	font-weight: 600 !important;
 	opacity: .5 !important;
 	transition: opacity .15s ease-in-out !important;
-	position: absolute !important;
+	position: none !important;
 	top: 20px !important;
 	right: 20px !important
 }
